@@ -12,11 +12,11 @@ int* twoSum(int* nums, int numsSize, int target) {
 	return res;
 }
 
-int main()
-{
-	int nums[4] = { 2, 7, 11, 15 };
-	int target = 9;
-	int* res = twoSum(nums, 4, 9);
-	printf("%d, %d\n", *res, *(res+1));
-	return 0;
-}
+//int main()
+//{
+//	int nums[4] = { 2, 7, 11, 15 };
+//	int target = 9;
+//	int* res = twoSum(nums, 4, 9);
+//	printf("%d, %d\n", *res, *(res+1));
+//	return 0;
+//}

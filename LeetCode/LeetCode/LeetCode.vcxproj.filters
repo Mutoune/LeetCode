@@ -18,5 +18,8 @@
     <ClCompile Include="1001_TowSum.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1007_ReverseInteger.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
