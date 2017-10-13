@@ -145,6 +145,12 @@
   <ItemGroup>
     <ClCompile Include="1001_TowSum.c" />
     <ClCompile Include="1007_ReverseInteger.c" />
+    <ClCompile Include="1009_PalindromeNumber.c" />
+    <ClCompile Include="1013_RomanToInteger.c" />
+    <ClCompile Include="1014_LongestCommonPrefix.c" />
+    <ClCompile Include="1020_ValidParentheses.c" />
+    <ClCompile Include="1021_MergeTwoSortedLists.c" />
+    <ClCompile Include="1026_RemoveDuplicates.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

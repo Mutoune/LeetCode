@@ -21,9 +21,9 @@ int reverse(int x) {
 	return res;
 }
 
-int main() {
-	int x;
-	scanf("%d", &x);
-	printf("%d\n", reverse(x));
-	return 0;
-}
+//int main() {
+//	int x;
+//	scanf("%d", &x);
+//	printf("%d\n", reverse(x));
+//	return 0;
+//}

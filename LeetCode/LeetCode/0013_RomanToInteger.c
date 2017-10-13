@@ -19,7 +19,7 @@ int romanToInt(char* s) {
 	return res;
 }
 
-int main() {
-	printf("%d\n", romanToInt("IX"));
-	return 0;
-}
+//int main() {
+//	printf("%d\n", romanToInt("IX"));
+//	return 0;
+//}

@@ -21,5 +21,23 @@
     <ClCompile Include="1007_ReverseInteger.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1013_RomanToInteger.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1014_LongestCommonPrefix.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1020_ValidParentheses.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1021_MergeTwoSortedLists.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1009_PalindromeNumber.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1026_RemoveDuplicates.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

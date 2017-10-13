@@ -54,9 +54,8 @@ bool isValid(char* s) {
 	return true;
 }
 
-int main() {
-	bool flg = isValid("()[]{}");
-	//isValid("()");
-	printf("%d\n", flg);
-	return 0;
-}
+//int main() {
+//	bool flg = isValid("()[]{}");
+//	printf("%d\n", flg);
+//	return 0;
+//}
